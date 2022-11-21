@@ -1,0 +1,23 @@
+基于List   
+time_cost -> ？ 16:34 - 01:43 = 9个小时
+测试集数据共23031条
+Recall: 0.754462
+Precision: 0.759531
+F MEASURE: 0.756988
+
+
+基于前缀树 
+time_cost -> 13.588880777359009
+分词结束
+测试集数据共23031条
+Recall: 0.754462
+Precision: 0.759531
+F MEASURE: 0.756988
+
+基于PPT list前缀树
+seg_data time_cost -> 944.0378687381744
+分词结束
+测试集数据共23031条
+Recall: 0.754462
+Precision: 0.759531
+F MEASURE: 0.756988

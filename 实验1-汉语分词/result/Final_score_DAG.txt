@@ -1,0 +1,6 @@
+seg_data time_cost -> 3.949976921081543
+分词结束
+测试集数据共23031条
+Recall: 0.764774
+Precision: 0.769274
+F MEASURE: 0.767017

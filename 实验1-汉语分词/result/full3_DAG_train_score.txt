@@ -1,0 +1,6 @@
+Precision: 0.988646 
+Recall: 0.979672 
+F MEASURE: 0.984139
+
+timecost:
+61s
